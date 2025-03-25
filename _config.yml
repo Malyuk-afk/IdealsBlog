@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "Ideal"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : ""
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : ""
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
