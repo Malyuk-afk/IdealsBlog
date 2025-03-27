@@ -2,6 +2,7 @@
 title: "Foundations of Large Language Models"
 collection: publications
 category: note
+permalink: /publication/Foundations of Large Language Models
 date: 2025-1-16
 paperurl: 'https://arxiv.org/abs/2501.09223'
 citation: 'Xiao, Tong and Zhu, Jingbo. (2025). "Foundations of Large Language Models." arXiv:2501.09223.'
